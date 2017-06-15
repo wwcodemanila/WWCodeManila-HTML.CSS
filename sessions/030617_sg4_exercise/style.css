@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+header {
+  height: 100px;
+  padding: 20px;
+  margin : 20px;
+  font-family: Quicksand;
+}
+
+.dark-div {
+  height: 80px;
+  background: #4F4F4F;
+}
+
+.image-div {
+  background: url(images/bg-img.png);
+  height:500px;
+}
