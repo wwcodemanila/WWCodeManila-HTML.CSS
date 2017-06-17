@@ -1,5 +1,5 @@
 
-Study Group 5 : Form and CSS Position Property
+Study Group 5 : HTML Form and CSS Position Property
 ===
 Resources:
 
