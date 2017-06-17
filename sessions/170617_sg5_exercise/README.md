@@ -1,6 +1,12 @@
 
 Study Group 5 : Form and CSS Position Property
 ===
+Resources:
+
+https://docs.google.com/presentation/d/1fYJ9X4BpsuRrJKXyYx_9iGAN7xtDTNmx2HlRSkk-1eQ/edit?usp=sharing
+
+http://learnlayout.com/position-example.html
+https://codepen.io/switmac/pen/OgLmzZ
 
 Exercise : Adding form in your website
 1. Using the website you made from previous session, add the Contact Us form
