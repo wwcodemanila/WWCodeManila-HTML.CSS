@@ -1,4 +1,7 @@
-Exercise : Building Website from Design
+Study Group 4: CSS Box Model and Display Property
+===
+
+Exercise/Assignment : Building Website from Design
 1. Inspect design.png
 2. In index.html, add the necessary html tags/elements to complete the design
 3. Add your styles in style.css
