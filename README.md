@@ -1,6 +1,9 @@
 # WWCodeManila-HTML.CSS
 This repository contains resources for HTML and CSS Study Groups.
 
+HTML-CSS Study Group is being held every 1st and 3rd Saturday of the month.
+
+Please follow https://www.meetup.com/Women-Who-Code-Manila for the activities and venue.
 ____
 Website development with `HTML` and `CSS` doesn't need any setup.
 You only need a text editor, a web browser and an open mind to get it started!
