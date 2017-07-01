@@ -6,6 +6,7 @@ _____
 https://docs.google.com/presentation/d/1fYJ9X4BpsuRrJKXyYx_9iGAN7xtDTNmx2HlRSkk-1eQ/edit?usp=sharing
 
 #### Table
+https://www.w3schools.com/tags/tag_thead.asp    
 https://www.w3schools.com/html/html_tables.asp   
 https://codepen.io/switmac/pen/bRbqde?editors=1000
 
