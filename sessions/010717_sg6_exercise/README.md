@@ -21,10 +21,11 @@ http://www.colors.commutercreative.com/grid/
 https://codepen.io/switmac/pen/dRdaLz?editors=1100       
 
 #### Typography    
+https://www.w3schools.com/css/css_font.asp    
 http://cssreference.io/typography/
 
 ### Exercises : Beautifying your website
-1. Using the website you made from previous session, change the default font to .
+1. Using the website you made from previous session, change the default font to any variant you like, refer from css font resource.
 
 2. Apply a new color palette to the design, select one from the color resources given above.
 
