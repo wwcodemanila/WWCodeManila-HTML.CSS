@@ -13,6 +13,7 @@ http://cssreference.io/typography/
 https://github.com/bendc/frontend-guidelines    
 https://validator.w3.org/nu/#textarea   
 https://www.webpagefx.com/blog/web-design/20-html-best-practices-you-should-follow/    
+https://www.w3schools.com/html/html5_syntax.asp    
 
 
 ### Exercises : Practicing order and cleanliness
