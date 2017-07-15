@@ -78,7 +78,7 @@ nav ul li a {
 
 .image-div {
   background: url(images/bg-img.jpg);
-  background-position-y: -20px;
+  background-position: -20px;
   height: 500px;
   background-size: cover;
   background-repeat: no-repeat;
