@@ -1,4 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+@media only screen and (max-width: 500px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
 body {
   margin: 0;
   padding: 0;

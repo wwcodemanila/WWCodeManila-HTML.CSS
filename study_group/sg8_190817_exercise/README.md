@@ -18,6 +18,9 @@ Sample Usage in your CSS file add :
     }
 }` 
 
+Try adding this in your css and resize your browser to see the difference;
+
+https://www.w3schools.com/css/css3_mediaqueries.asp 
 http://learnlayout.com/media-queries.html    
 https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports#media-queries   
 
