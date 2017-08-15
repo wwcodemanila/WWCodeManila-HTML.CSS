@@ -16,7 +16,7 @@ http://learnlayout.com/position-example.html
 
 
 ### Exercise : Adding form in your website
-1. Using the website you made from previous session, add the Contact Us form
+1. Using the website you made from previous session or in the workspace directory, add the Contact Us form
  with the name, email, suggestion/remarks.
 
 2. Add a Register form with fields name, email, birthday, gender, contact number, interest and a little about yourself.
