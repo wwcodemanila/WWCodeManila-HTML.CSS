@@ -9,6 +9,6 @@ Study Group | Topic
 - [x] 6 | HTML Table, CSS Colors
 - [x] 7 | CSS Typography, Float, Best Practices and Guidelines,
 - [x] 8 | Responsive Website
-- [_] 9 | CSS Frameworks
-- [_] 10 | CSS Preprocessors
-- [_] 11 | Frontend Javascript Frameworks
+- 9 | CSS Frameworks
+- 10 | CSS Preprocessors
+- 11 | Frontend Javascript Frameworks
