@@ -20,16 +20,15 @@ Batch 2: (2018)
 
 |     | Topic                                                          | Reference                     |
 |-----|----------------------------------------------------------------|-------------------------------|
-| [x] | Introduction to HTML and CSS, Creating your first website.     |                               |
-| [x] | HTML Box Model and CSS Selectors.                              |                               |
+|  1  | Introduction to HTML and CSS, Creating your first website.     |                               |
+|  2  | More discussion about HTML Box Model and CSS Selectors         |                               |
 |     |		*Bonus: Learn some advanced positioning techniques.		   |                               |
-| [x] | Links, Images, and Backgrounds                                 |                               |
-| [x] | Typography                                                     |                               |
-| [x] | Advanced HTML Positioning, CSS Grid and Flexbox (new)          |                               |
-| [x] | CSS3 Transitions, Transforms, Animations and Filters           |                               |
-| [x] | CSS Frameworks                                                 |                               |
-| [x] | CSS Pre-processors                                             |                               |
-| [x] | Implementing JavaScript Libraries                              |                               |
-| [x] | CSS Methodologies                                              |                               |
-| [x] | Deploying your website                                         |                               |
-|-----|----------------------------------------------------------------|-------------------------------|
+|  3  | Links, Images, and Backgrounds                                 |                               |
+|  4  | Typography                                                     |                               |
+|  5  | Advanced HTML Positioning, CSS Grid and Flexbox (new)          |                               |
+|  6  | CSS3 Transitions, Transforms, Animations and Filters           |                               |
+|  7  | CSS Frameworks                                                 |                               |
+|  8  | CSS Pre-processors                                             |                               |
+|  9  | Implementing JavaScript Libraries                              |                               |
+| 10  | CSS Methodologies                                              |                               |
+| 11  | Deploying your website                                         |                               |
