@@ -30,7 +30,7 @@ h1 {
 }
 
 h1 .manila {
-  color: #5FCCBA;
+  color: #007a7c;
 }
 
 
@@ -55,7 +55,7 @@ nav ul li:after {
   content: '';
   transform: scaleX(0);
   transition: transform 250ms ease-in-out;
-  border-bottom: 2px solid #5FCCBA;
+  border-bottom: 2px solid #007a7c;
 }
 
 nav ul li:hover:after {
