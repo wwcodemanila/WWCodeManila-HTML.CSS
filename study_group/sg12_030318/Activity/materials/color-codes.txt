@@ -1,0 +1,9 @@
+header-bg : #E8E8E8
+dark-gray : #4F4F4F
+manila-color : #5FCCBA
+about-us/content-bg : #F2F2F2
+
+font
+<style>
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+</style>

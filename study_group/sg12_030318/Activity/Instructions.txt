@@ -1,0 +1,202 @@
+Instructions:
+
+1. Create an index.html file
+
+2. Inside the index.html file, do the following (items 3-5 only):
+
+3. Paste this code inside the head tag.
+   <title>HTML CSS Layout Exercise</title>
+   <link href="css/style.css" type="text/css" rel="stylesheet" />
+
+4. Paste this code after <body> tag
+  <header class="main-header">
+    <h1>Women Who Code <span class="manila">Manila</span></h1>
+  </header>
+  <nav class="dark-div">
+    <div class="container">
+      <ul>
+        <li class="home-link">
+          <a href=""><img src="images/home.png" /></a>
+        </li>
+        <li>
+          <a href="">My Tribute Page</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div class="image-div"></div>
+
+5. Paste this code before </body> tag
+  <footer>
+    <div class="container">
+      <h3 class="connect">Connect with us!</h3>
+      <ul class="social-media-logos">
+        <li>
+          <a href="https://www.meetup.com/Women-Who-Code-Manila/" target="_blank">
+            <img src="images/mu.png" />
+          </a>
+        </li>
+
+        <li>
+          <a href="https://www.facebook.com/wwcodemanila/?ref=br_rs" target="_blank">
+            <img src="images/fb.png" />
+          </a>
+        </li>
+
+        <li>
+          <a href="https://twitter.com/WWCodeManila" target="_blank">
+            <img src="images/twitter.png" />
+          </a>
+        </li>
+      </ul>
+    </div>
+  </footer>
+
+6. Create a folder in your project folder and named it "css".
+
+7. Inside the css folder, create a style.css file.
+
+8. Inside the style.css, paste the following:
+
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+@media only screen and (max-width: 500px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  font-family: Quicksand;
+  background-color: #F2F2F2;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.main-header {
+  padding: 20px;
+  background-color: #E8E8E8;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h1 .manila {
+  color: #007a7c;
+}
+
+
+nav.dark-div {
+  background: #4F4F4F;
+}
+
+nav ul {
+  list-style: none;
+  padding-top: 10px;
+  padding-left: 0;
+  margin: 0;
+  padding-bottom: 10px;
+}
+
+nav ul li {
+  padding: 10px 15px;
+}
+
+nav ul li:after {
+  display: block;
+  content: '';
+  transform: scaleX(0);
+  transition: transform 250ms ease-in-out;
+  border-bottom: 2px solid #007a7c;
+}
+
+nav ul li:hover:after {
+  transform: scaleX(1);
+  transform-origin: 0% 50%;
+}
+
+nav li.home-link:after {
+  border-bottom: 0;
+}
+
+nav li.home-link:hover img {
+  transform: scale(1.5);
+  transition: transform 250ms ease-in-out;
+}
+
+nav li.home-link img {
+  height: 18px;
+  width: 20px;
+}
+
+nav ul li a {
+  color: #FEFEFE;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.image-div {
+  background: url('../images/filipina heroines banner.png');
+  background-position: 0px -70px;
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #4F4F4F;
+  padding: 15px;
+}
+
+footer .container {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+footer h3 {
+  color: #ffffff;
+}
+
+footer ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+li {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+li img {
+  height: 50px;
+  width: 50px;
+}
+
+footer li:hover img {
+  transform: rotate(20deg);
+  transition: transform 250ms ease-in-out;
+}
+
+
+
+/* Yay! We are now ready to start our Tribute Page!! */
+
+Tribute Page Activity:
+
+1. Go to http://cnnphilippines.com/life/culture/2017/06/07/5-filipino-heroines.html
