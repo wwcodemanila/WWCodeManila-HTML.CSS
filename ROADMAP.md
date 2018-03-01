@@ -20,7 +20,7 @@ Batch 2: (2018)
 
 | Study Group  | Topic                                                          | Reference                     
 |--------------|----------------------------------------------------------------|-------------------------------
-|           1  | Introduction to HTML and CSS, Creating your first website.     | https://docs.google.com/presentation/d/1DmJzVpnDKAmbOs8NrxbXL0OxsP7pBa-lXhBxsAGG0IU/edit#slide=id.g27c295ce6f_0_63                              |
+|           1  | Introduction to HTML and CSS, Creating your first website.     | bit.ly/HTMLCSS_SG01
 |           2  | More discussion about HTML Box Model and CSS Selectors         |                               
 |              |		*Bonus: Learn some advanced positioning techniques.     |                               
 |           3  | Links, Images, and Backgrounds                                 |                               
