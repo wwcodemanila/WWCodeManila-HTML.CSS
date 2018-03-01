@@ -5,7 +5,7 @@ Instructions:
 2. Inside the index.html file, do the following (items 3-5 only):
 
 3. Paste this code inside the head tag.
-   <title>HTML CSS Layout Exercise</title>
+   <title>My Tribute Page</title>
    <link href="css/style.css" type="text/css" rel="stylesheet" />
 
 4. Paste this code after <body> tag
