@@ -204,3 +204,6 @@ Tribute Page Activity:
 3. Inside the <main> tag, create a <header> section which contains a <h1> tag.
 4. After the <header> tag, create a <section> tag which contains your <article> tag.
 5. Inside the <article> tag, you may add any content you want. 
+
+
+
