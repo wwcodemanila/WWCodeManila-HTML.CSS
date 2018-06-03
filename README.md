@@ -2,7 +2,7 @@
 
 **HTML, HyperText Markup Language,** gives content structure and meaning by defining that content as, 
 for example, headings, paragraphs, or images. **CSS, or Cascading Style Sheets,** is a presentation language created 
-to style the appearance of content—using, for example, fonts or colors. *(Source: https://learn.shayhowe.com/html-css/building-your-first-web-page/)
+to style the appearance of content—using, for example, fonts or colors. *(Source: https://learn.shayhowe.com/html-css/building-your-first-web-page/)*
 
 This repository contains resources for HTML and CSS Study Groups.
 
