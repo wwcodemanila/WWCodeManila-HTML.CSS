@@ -66,7 +66,5 @@ Do you want to host one of our study groups? Email us at **manila@womenwhocode.c
   Add the contributors to the study group resources here.
   Credit where credit's due :smile:
 -->
-- Joy Paas ([@kjcpaas](https://github.com/kjcpaas))
-- Mars Gabutero ([@amdg](https://github.com/amdg))
-- Ce Manalang ([@ce-walalang](https://github.com/ce-walalang))
-- Joyce Sayco ([@josephinesayco](https://github.com/josephinesayco))
+- Marie Antoinette Go ([@switmac](https://github.com/switmac))
+- Azel Tan ([@azelalynetan](https://github.com/azelalynetan))
