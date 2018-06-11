@@ -9,11 +9,11 @@
 
 ## Required tools
 
-!> Before attending Ruby study groups, please make sure to install the needed tools. You will not be able to participate in the activities without these.
+!> Before attending HTML &amp; CSS study groups, please make sure to install the needed tools. You will not be able to participate in the activities without these.
 
 ### Text editors
 
-Ruby does not require an IDE. You can opt to use one of these as your text editor (or your own choice).
+HTML &amp; CSS does not require an IDE. You can opt to use one of these as your text editor (or your own choice).
 
 - [Sublime Text](https://www.sublimetext.com/) (all platforms)
 
