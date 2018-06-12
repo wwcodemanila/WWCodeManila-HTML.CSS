@@ -39,8 +39,7 @@
     - Ruby on Rails
       - [Building Your First App](ruby_on_rails/building_your_first_app.md)
   -->
-  - [Ruby Fundamentals](contents/ruby_fundamentals.md)
-  - [Ruby on Rails](contents/ruby_on_rails.md)
+  - [Roadmap](contents/roadmap.md)
 
 - Resources
   <!--
