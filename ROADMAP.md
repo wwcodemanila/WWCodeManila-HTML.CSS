@@ -18,17 +18,18 @@ Batch 2: (2018)
 
 ## As we welcome 2018, let's start the year looking forward to these topics: 
 
-| Study Group  | Topic                                                          | Reference                     
-|--------------|----------------------------------------------------------------|-------------------------------
-|           1  | Introduction to HTML and CSS, Creating your first website.     | bit.ly/HTMLCSS_SG01
-|           2  | More discussion about HTML Box Model and CSS Selectors         |                               
-|              |		*Bonus: Learn some advanced positioning techniques.     |                               
-|           3  | Links, Images, and Backgrounds                                 |                               
-|           4  | Typography                                                     |                               
-|           5  | Advanced HTML Positioning, CSS Grid and Flexbox (new)          |                               
-|           6  | CSS3 Transitions, Transforms, Animations and Filters           |                               
-|           7  | CSS Frameworks                                                 |                               
-|           8  | CSS Pre-processors                                             |                               
-|           9  | Implementing JavaScript Libraries                              |                               
-|          10  | CSS Methodologies                                              |                               
-|          11  | Deploying your website                                         |                               
+| Study Group  | Topic                                                                                           |          
+|--------------|-------------------------------------------------------------------------------------------------|
+|           1  | [Introduction to HTML and CSS, Creating your first website.](https://bit.ly/HTMLCSS_SG01)       | 
+|           2  | [More discussion about HTML Box Model and CSS Selectors](https://bit.ly/HTMLCSS_SG02)           |                               
+|              |		*Bonus: Learn some advanced positioning techniques.                                      |                               
+|           3  | [Links, Images, and Backgrounds](https://bit.ly/HTMLCSS_SG03)                                   |                               
+|           4  | Typography                                                                                      |                               
+|           5  | Advanced HTML Positioning, CSS Grid and Flexbox (new)                                           |
+|           6  | Responsive Web Design                                                                           |                               
+|           7  | CSS3 Transitions, Transforms, Animations and Filters                                            |                               
+|           8  | CSS Frameworks                                                                                  |                               
+|           9  | CSS Pre-processors                                                                              |                               
+|          10  | Implementing JavaScript Libraries                                                               |                               
+|          12  | CSS Methodologies                                                                               |                               
+|          13  | Deploying your website                                                                          |                               
