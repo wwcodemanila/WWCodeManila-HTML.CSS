@@ -42,6 +42,7 @@ Everyone joining this study group and other Women Who Code events must follow ou
 - [Meetup](https://meetup.com/Women-Who-Code-Manila): Get updated with the upcoming study group and other event schedules.
 - [Facebook](https://facebook.com/wwcodemanila): Get updated about what's happening with the community.
 - [Twitter](https://twitter.com/wwcodemanila): Get updates about current and future events.
+- [Git Page](https://wwcodemanila.github.io/WWCodeManila-HTML.CSS/): This documentation is best viewed here.  
 
 ## Helping out
 
@@ -68,3 +69,4 @@ Do you want to host one of our study groups? Email us at **manila@womenwhocode.c
 -->
 - Marie Antoinette Go ([@switmac](https://github.com/switmac))
 - Azel Tan ([@azelalynetan](https://github.com/azelalynetan))
+- Ji-Anne Jose ([@jiannejose])(https://github.com/jiannejose)
