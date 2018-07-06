@@ -1,0 +1,1 @@
+"use strict";var openNav=document.querySelector(".js-open_nav"),closeNav=document.querySelector(".js-close_nav"),mainNav=document.querySelector(".js-main_nav");openNav.addEventListener("click",function(){mainNav.classList.add("c-nav__main--open")}),closeNav.addEventListener("click",function(){mainNav.classList.remove("c-nav__main--open")});
