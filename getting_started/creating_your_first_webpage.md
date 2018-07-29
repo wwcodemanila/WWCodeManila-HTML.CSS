@@ -28,10 +28,8 @@ Source: (https://developer.mozilla.org/en-US/docs/Web/Guide/)
 	<title>Page Title</title>
 </head>
 <body>
-
 	<h1>My First Heading</h1>
 	<p>My first paragraph.</p>
-
 </body>
 </html>
 ```
