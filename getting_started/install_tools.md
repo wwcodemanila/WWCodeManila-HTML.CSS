@@ -36,5 +36,6 @@ For more advanced users, you can opt to use these terminal-based editors:
 These tools are not required but they make your development environment efficient. It is highly recommended to install them.
 
 ### Version Control System
+
 Most popular version control system is [git](https://git-scm.com/) and [Github](https://github.com/) and [Bitbucket](https://bitbucket.org/) are most popular code hosting sites based on git.
 
