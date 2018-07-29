@@ -1,5 +1,3 @@
-## Guide in Learning HTML &amp; CSS
-
 Here are the possible topics that we will cover in our study groups:
 
 | Study Group  | Topic                                                          
@@ -14,5 +12,6 @@ Here are the possible topics that we will cover in our study groups:
 |           8  | CSS Pre-processors                                                                            
 |           9  | Implementing JavaScript Libraries                                                             
 |          10  | CSS Methodologies                                                                             
-|          11  | Deploying your website                                                                        
+|          11  | Deploying your website      
 
+!> Note: Please feel free to checkout our slides that are linked in each topics.
