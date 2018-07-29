@@ -12,7 +12,8 @@
 !> Before attending HTML &amp; CSS study groups, please make sure to install the needed tools. You will not be able to participate in the activities without these.
 
 ### Web Browsers
-You need a web browser to test your code. Most widely used are Chrome, Firefox, Safari, Opera, and Internet Explorer.
+
+You need a web browser to test your code. Most widely used are [Chrome](https://www.google.com/chrome/), [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Safari](https://www.apple.com/safari/), [Opera](https://www.opera.com/), and [Internet Explorer](https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads).
 
 ### Text editors
 
@@ -37,5 +38,5 @@ These tools are not required but they make your development environment efficien
 
 ### Version Control System
 
-Most popular version control system is [git](https://git-scm.com/) and [Github](https://github.com/) and [Bitbucket](https://bitbucket.org/) are most popular code hosting sites based on git.
+Most popular version control system is [Git](https://git-scm.com/) and [Github](https://github.com/) and [Bitbucket](https://bitbucket.org/) are most popular code hosting sites based on git.
 
