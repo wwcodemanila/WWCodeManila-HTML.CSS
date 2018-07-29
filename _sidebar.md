@@ -13,7 +13,7 @@
   - [About the Study Group](README.md)
   - [Install Tools](getting_started/install_tools.md)
   - [Guide in Learning HTML &amp; CSS](getting_started/guide.md)
-  - [Creating your first Web Page](getting_started/creating your first web page.md)
+  - [Creating your first Web Page](getting_started/creating_your_first_webpage.md)
 
 - Women Who Code Manila
   - [About WWCode Manila](wwcodemanila/about.md)
