@@ -34,3 +34,5 @@ Source: (https://developer.mozilla.org/en-US/docs/Web/Guide/)
 </html>
 ```
 4. Open the index.html using your web browser.
+
+Congratulations on your first Web Page! :) 
