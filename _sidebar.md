@@ -16,13 +16,14 @@
   - [About the Study Group](README.md)
   - [Install Tools](getting_started/install_tools.md)
   - [Guide in Learning HTML &amp; CSS](getting_started/guide.md)
-  - [Roadmap](contents/roadmap.md)
 
 - Basic Concepts
+  - [Introduction to HTML &amp; CSS]
   - [Creating your first Web Page](getting_started/creating_your_first_webpage.md)
 
 - Advanced HTML &amp; CSS
-  - [CSS Frameworks]
+  - [CSS Preprocessors]()
+  - [CSS Frameworks]()
 
 - Resources
   - [References](resources/references.md)
