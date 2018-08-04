@@ -28,4 +28,4 @@
 - Resources
   - [References](resources/references.md)
   - [Best Practices]()
-  - [Let's Play and Learn!]()
+  - [Let's Play and Learn!](resources/play_and_learn.md)
