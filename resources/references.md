@@ -6,7 +6,7 @@
 
 ## Documentation
 
-Reading software documentation is part of being a software developer. You can find information about built-in methods in Ruby and Ruby on Rails.
+Reading software documentation is part of being a software developer. You can find more information about in HTML &amp; CSS.
 
 - Mozilla MDN: 
 	- HTML: https://developer.mozilla.org/en-US/docs/Web/HTML
