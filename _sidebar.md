@@ -8,48 +8,22 @@
 
   See https://docsify.js.org/#/configuration?id=autoheader
 -->
+- Women Who Code Manila
+  - [About WWCode Manila](wwcodemanila/about.md)
+  - [Study Groups](wwcodemanila/study_groups.md)
 
 - Getting Started
   - [About the Study Group](README.md)
   - [Install Tools](getting_started/install_tools.md)
   - [Guide in Learning HTML &amp; CSS](getting_started/guide.md)
-  - [Creating your first Web Page](getting_started/creating_your_first_webpage.md)
-
-- Women Who Code Manila
-  - [About WWCode Manila](wwcodemanila/about.md)
-  - [Study Groups](wwcodemanila/study_groups.md)
-
-- Contents
-  <!--
-    UPDATE THIS:
-
-    Populate your contents with the contents for your study group's topic
-
-    Put the files under contents/ and reference them here.
-    Use descriptive topic titles, intead of "Topic 1", "Topic 2".
-
-    For example:
-
-    - [Variables and Constants](contents/variables_and_constants.md)
-
-    You can also opt to change the contents structure, especially if your study groups has many topic groupings. For example:
-
-    - Ruby Fundamentals
-      - [Variables and Constants](ruby_fundamentals/variables_and_constants.md)
-      ...
-
-    - Ruby on Rails
-      - [Building Your First App](ruby_on_rails/building_your_first_app.md)
-  -->
   - [Roadmap](contents/roadmap.md)
 
+- Basic Concepts
+  - [Creating your first Web Page](getting_started/creating_your_first_webpage.md)
+
+- Advanced HTML &amp; CSS
+  - [CSS Frameworks]
+
 - Resources
-  <!--
-    UPDATE THIS:
-
-    Aside from references, you can add other useful topics here, e.g. coding conventions, best practices, etc
-
-    Just create a markdown file under resources and reference it here. For example:
-    [Naming Conventions](resources/naming_conventions.md)
-  -->
   - [References](resources/references.md)
+  - [Best Practices]()
