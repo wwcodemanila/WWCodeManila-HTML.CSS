@@ -1,6 +1,6 @@
 # Women Who Code Manila HTML & CSS Study Group
 
-![alt text](_media/HTML.png "HTML")
+![alt text](_media/HTML.png "HTML") ![alt text](_media/CSS.png "CSS")
 
 **HTML (HyperText Markup Language)** is the most basic building block of the Web. It describes and defines the 
 content of a webpage along with the basic layout of the webpage.
@@ -8,8 +8,6 @@ content of a webpage along with the basic layout of the webpage.
 *HTML5 is the latest evolution of the standard that defines HTML. The term represents two different concepts. 
 It is a new version of the language HTML, with new elements, attributes, and behaviors, and a larger set of technologies 
 that allows the building of more diverse and powerful Web sites and applications.*
-
-![alt text](_media/CSS.png "CSS")
 
 **Cascading Style Sheets (CSS)** is a stylesheet language used to describe the presentation 
 of a document written in HTML or XML (including XML dialects such as SVG or XHTML). CSS describes how elements should 
