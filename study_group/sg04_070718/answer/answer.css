@@ -1,0 +1,155 @@
+/***********
+GENERAL
+************/
+* {
+  box-sizing: border-box;
+  margin: 0;
+  outline: none;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+/***********
+Container
+************/
+.o-container {
+  transition: all 1000ms ease-out;
+  padding: 0 15px;
+}
+
+
+@media screen and (min-width: 768px) {
+  .o-container {
+      max-width: 750px;
+      position: relative;
+      margin: 0 auto;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .o-container {
+    max-width: 970px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .o-container {
+    max-width: 1170px;
+  }
+}
+
+/***********
+Newsletter
+************/
+.c-newsletter__intro {
+  width: 100%;
+  height: 325px;
+  background-color: #7beec7;
+  position: relative;
+}
+
+.c-newsletter__intro_content {
+  width: 100%;
+  font-family: 'Lekton', sans-serif;
+  font-size: 20px;
+  text-transform: uppercase;
+  line-height: 2em;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  padding-left: 12%;
+}
+
+/*** signin ***/
+.c-newsletter__signin {
+  width: 100%;
+  height: 325px;
+  position: relative;
+  background-image: url(./img/newsletter-bg.jpg);
+}
+
+.c-newsletter__signin--inner {
+  width: calc(100% - 20px);
+  height: calc(100% - 20px);
+  background-color: rgba(255,255,255, 0.9);
+  position: relative;
+  top: 10px;
+  margin: 0 auto;
+}
+
+.c-newsletter__signin--inner form {
+  width: 100%;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 0 12px;
+}
+
+.c-newsletter__signin--inner form input,
+.c-newsletter__signin--inner form button {
+  border: none;
+  text-transform: uppercase;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.c-newsletter__signin--inner form input {
+  color: #787878;
+  font-size: 14px;
+  letter-spacing: 0.1em;
+  width: 100%;
+  padding: 18px 10px;
+}
+
+.c-newsletter__signin--inner form button {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: 0.15em;
+  background-color: #7beec7;
+  padding: 12px 30px;
+  margin-top: 30px;
+  border: 2px solid transparent;
+  transition: all 400ms ease;
+}
+
+.c-newsletter__signin--inner form button:hover {
+  color: #7beec7;
+  background-color: #ffffff;
+  border: 2px solid #7beec7;
+}
+
+@media screen and (min-width: 768px) {
+  /*** intro ***/
+  .c-newsletter__intro_content {
+    font-size: 28px;
+    letter-spacing: 0.1em;
+    line-height: 1.5em;
+    padding-left: 90px;
+  }
+
+  .c-newsletter__signin--inner {
+    width: calc(100% - 100px);
+    height: calc(100% - 100px);
+    background-color: rgba(255,255,255, 1.0);
+    top: 50px;
+  }
+
+  .c-newsletter__signin--inner form {
+    width: 85%;
+    margin: 0 auto;
+  }
+
+  .c-newsletter__signin--inner form input {
+    border: 1px solid #eaeaea;    
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .c-newsletter {
+    display: flex;
+  }
+}

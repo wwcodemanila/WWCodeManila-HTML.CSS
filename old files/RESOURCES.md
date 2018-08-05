@@ -19,3 +19,16 @@ Colors : https://codepen.io/switmac/pen/dRdaLz?editors=1100
 
 #### Best Practices and Guides
 https://www.w3schools.com/html/html5_syntax.asp
+http://blog.teamtreehouse.com/use-html5-sectioning-elements
+
+### Presentation
+Batch 1: https://docs.google.com/presentation/d/1fYJ9X4BpsuRrJKXyYx_9iGAN7xtDTNmx2HlRSkk-1eQ/edit?usp=sharing
+
+### Documentation:
+Mozilla MDN: https://developer.mozilla.org/en-US/docs/Web/CSS/:
+W3Schools: https://www.w3schools.com/
+
+### Tools
+Productivity/Organizer: Trello
+Dummy Text: http://www.lipsum.com/ 
+Online Editor: https://codepen.io/ 
