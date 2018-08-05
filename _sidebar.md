@@ -22,8 +22,6 @@
   - [Creating your first Web Page](getting_started/creating_your_first_webpage.md)
 
 - Advanced HTML &amp; CSS
-  - [CSS Preprocessors]()
-  - [CSS Frameworks]()
 
 - Resources
   - [References](resources/references.md)
