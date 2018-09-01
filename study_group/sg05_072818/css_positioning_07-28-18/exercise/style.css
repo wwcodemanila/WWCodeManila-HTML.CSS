@@ -1,0 +1,16 @@
+.title {
+  font-weight: 400;
+  color: #007a7c;
+  text-align: center;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin: 0 auto;
+}
+
+.bio {
+  display: flex;
+}
