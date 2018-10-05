@@ -87,9 +87,7 @@ nav ul li a {
   background: url(images/bg-img.jpg);
   background-position: -20px;
   height: 500px;
-  background-size: cover;
   background-repeat: no-repeat;
-  width: 100%;
 }
 
 main {
