@@ -1,4 +1,4 @@
-# Women Who Code Manila HTML & CSS Study Group
+# Women Who Code Manila HTML and CSS Study Group
 
 ![alt text](_media/HTML.png "HTML") ![alt text](_media/CSS.png "CSS")
 
