@@ -55,6 +55,7 @@ HTML stands for **Hyper Text Markup Language**.
 In web, webpages are made up of **HTML** and **CSS**. 
 
 ![HTML & CSS Layer](../_media/htmlcss_layer.png)
+
 Photo credit © https://sites.google.com/a/st-anns.ca/mrs-nichol/html/html-and-css 
 
 
