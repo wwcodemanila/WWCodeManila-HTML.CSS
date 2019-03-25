@@ -46,7 +46,21 @@ Congratulations on your First Hello World!
 You successfully run your first HTML page. :) 
 
 
-### Version Control System
+### Understanding the Code
 
-Most popular version control system is [Git](https://git-scm.com/). [Github](https://github.com/) and [Bitbucket](https://bitbucket.org/) are most popular code hosting sites based on git.
+Let’s check and understand the codes from your MyFirstHelloWorld.html. 
 
+HTML stands for **Hyper Text Markup Language**.
+In web, webpages are made up of **HTML** and **CSS**. 
+
+![HTML & CSS Layer](../_media/htmlcss_layer.png)
+Photo credit © https://sites.google.com/a/st-anns.ca/mrs-nichol/html/html-and-css 
+
+
+HTML provides the structure, while CSS provides the appearance.
+And the structure is composed of elements and tags. 
+
+Going back to our code, each words that starts with ‘<’ and ends with ‘>’ are tags.
+
+HTML tags are element names surrounded by angle brackets:
+<tagname>content goes here...</tagname>
