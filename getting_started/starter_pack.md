@@ -84,16 +84,25 @@ In the example above:
 ### Try it Yourself: Explore HTML Elements, Tags and Attributes
 
 1. Please read this link to understand more about the elements, tags and attributes:
-https://learn.shayhowe.com/html-css/building-your-first-web-page/ 
+
+   https://learn.shayhowe.com/html-css/building-your-first-web-page/ 
+   
 2. List down 5 examples of elements with at least 1 attribute. Understand how they works.
+
    Example:
-     * Element: <a>
-     * Attributes: href, target
+      * Element: `<a>`
+      * Attributes: href, target
 
     You can find the list of html elements here:
-     * W3Schools
-     * Mozilla MDN  
+      * W3Schools
+      * Mozilla MDN 
+	  
 3. Try the html elements from your list. Explore on how they works. 
    If you have questions, you can ask us in our gitter chat or list down your question and ask it during the study group. We will try our best to answer your questions. 
+
 4. Share your answers during our study group. Don’t be shy, ok :) 
 
+
+!> Note:
+If there’s something that confuse you or you don’t understand, you can ask our community. 
+Feel free to post your questions here: https://gitter.im/WWCodeManila/HTML-CSS 
