@@ -66,3 +66,17 @@ Going back to our code, each words that starts with ‘<’ and ends with ‘>�
 
 **HTML tags** are element names surrounded by angle brackets:
 <tagname>content goes here...</tagname>
+
+Example:
+
+![HTML Element Structure](../_media/element_structure.png)
+
+Photo Credit © https://learn.shayhowe.com 
+
+In the example above:
+* The HTML <a> element (or anchor element) creates a hyperlink to link one page or file to another.
+* The opening tag is ‘<a href=”http://shayhowe.com/”>’. Opening tag is used to start an element. 
+* The content is ‘Shay Howe’. It is the information displayed in your browser. 
+* The closing tag is ‘</a>’. Closing tag is used to end an element. 
+* ‘href=”http://shayhowe.com”’ is an example of an attribute ‘href’ with value of ‘http://shayhowe.com’. 
+
