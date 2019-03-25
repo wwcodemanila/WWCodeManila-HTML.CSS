@@ -22,9 +22,29 @@ Please read all the supporting references in this starter pack. Explore the link
 “A blog (shortening of “weblog”) is an online journal or informational website displaying information in the reverse chronological order, with latest posts appearing first. It is a platform where a writer or even a group of writers share their views on an individual subject.” 
 Source: https://firstsiteguide.com/what-is-blog/ 
 
-## Optional tools
+## My First Hello World! 
 
-These tools are not required but they make your development environment efficient. It is highly recommended to install them.
+### Try it Yourself: My First Hello World! 
+
+1. Open a text editor. (Notepad, Notepad++, Sublime or any text editor that you have).
+2. Type the code below in your text editor:
+```
+<html>
+	<head>
+		<title>My First Hello World</title>
+</head>
+<body>
+	<h1> Hello World!</h1>
+	<p> This is my first paragraph! </p>
+</body>	
+</html>
+```
+3. Save it as MyFirstHelloWorld.html
+4. Open it with any browser that you have. (Google Chrome, Firefox, IE, etc)
+
+Congratulations on your First Hello World!
+You successfully run your first HTML page. :) 
+
 
 ### Version Control System
 
