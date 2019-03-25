@@ -6,9 +6,10 @@
 
 ## Guide for attendees who are starting to learn HTML/CSS.
 
-!> For newbie / beginners please read, understand and follow this starter pack. 
+!> For **newbies / beginners** please read, understand and follow this starter pack. 
 It might take 2-3 hrs or more to finish this. Please try your best to follow all the activities, we know you can do it. :)
-!> For attendees who already knows the basics/fundamentals of HTML & CSS, you don’t need to read it all but we recommend to do the final activity - My First Blog Site before attending the study group. 
+
+!> For **attendees who already knows the __basics/fundamentals of HTML & CSS__**, you don’t need to read it all but we recommend to do the final activity - My First Blog Site before attending the study group. 
 
 ### Creating your Personal Blog Site
 
