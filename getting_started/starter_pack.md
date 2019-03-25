@@ -9,7 +9,7 @@
 !> For **newbies / beginners** please read, understand and follow this starter pack. 
 It might take 2-3 hrs or more to finish this. Please try your best to follow all the activities, we know you can do it. :)
 
-!> For **attendees who already knows the __basics/fundamentals of HTML & CSS__**, you don’t need to read it all but we recommend to do the final activity - My First Blog Site before attending the study group. 
+!> For **attendees who already knows the _basics/fundamentals of HTML & CSS_**, you don’t need to read it all but we recommend to do the final activity - My First Blog Site before attending the study group. 
 
 ### Creating your Personal Blog Site
 
@@ -75,8 +75,8 @@ Photo Credit © https://learn.shayhowe.com
 
 In the example above:
 * The **HTML `<a>` element (or anchor element)** creates a hyperlink to link one page or file to another.
-* The __opening tag__ is **`<a href=”http://shayhowe.com/”>`**. Opening tag is used to start an element. 
-* The __content__ is **'Shay Howe'**. It is the information displayed in your browser. 
-* The __closing tag__ is **`</a>`**. Closing tag is used to end an element. 
+* The _opening tag_ is **`<a href=”http://shayhowe.com/”>`**. Opening tag is used to start an element. 
+* The _content_ is **'Shay Howe'**. It is the information displayed in your browser. 
+* The _closing tag_ is **`</a>`**. Closing tag is used to end an element. 
 * '**href=”http://shayhowe.com”**' is an example of an attribute 'href' with value of 'http://shayhowe.com'. 
 
