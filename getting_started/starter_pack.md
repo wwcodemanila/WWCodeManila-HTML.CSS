@@ -177,5 +177,7 @@ Check this photo below:
 Photo Credit © https://www.w3schools.com/css/css_syntax.asp 
 
 In CSS, there are different selectors. H1 from the example is an element selector. 
-Read more about CSS selectors here.
+Read more about CSS selectors [here](https://www.w3schools.com/css/css_syntax.asp).
+
+
 
