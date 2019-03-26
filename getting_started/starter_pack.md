@@ -160,3 +160,17 @@ element {
 8. Open your MyFirstHelloWorld.html or refresh it from your browser.
 
 Congratulations! Your First Website have colors in it. :)
+
+### Understanding Cascading Style Sheet (CSS)
+
+In the previous activity, we asked you to add this line below inside the <head> tag:
+`<link rel="stylesheet" type="text/css" href="style.css">`
+That line of code connects our newly created style.css file to our html file (MyFirstHelloWorld.html). 
+
+Check this photo below:
+
+Photo Credit © https://www.w3schools.com/css/css_syntax.asp 
+
+In CSS, there are different selectors. H1 from the example is an element selector. 
+Read more about CSS selectors here.
+
