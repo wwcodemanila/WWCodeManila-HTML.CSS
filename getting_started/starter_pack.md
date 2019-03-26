@@ -130,3 +130,33 @@ Can you solve this? Try it! Challenge yourself.
 2. This code block has 5 bugs, find them to make your page work.
 
 3. Don’t forget to save your work as Challenge1.html
+
+
+## Let’s make it Red!
+
+Now that you have your MyFirstHelloWorld.html, let’s add colors to it. 
+Let’s learn what is CSS and how it works. 
+
+### Try it Yourself: Beautify Me!
+
+1. Open your MyFirstHelloWorld.html in your browser.
+2. Observe it’s current look.
+3. In the same folder/directory of your MyFirstHelloWorld.html, Create a new file and name it as style.css.
+Note: This will be your CSS File. All css files have an extension of *.css
+4. Inside the `<head>` tag under the `<title>` tag, inside this `<link>` tag:
+```
+<link rel="stylesheet" type="text/css" href="style.css">
+```
+Read more about HTML <link> tag here.
+Familiarize yourself with CSS syntax.
+```
+element {
+    property: value;
+}
+```
+5. Style the h1 tag by giving it a property of color with a value of DarkSlateGray.
+6. Style the p tag by giving it a color black and a font-size of 16px.
+7. Save your changes. 
+8. Open your MyFirstHelloWorld.html or refresh it from your browser.
+
+Congratulations! Your First Website have colors in it. :)
