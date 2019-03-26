@@ -169,6 +169,8 @@ this line of code connects our newly created style.css file to our html file (My
 
 Check this photo below:
 
+![CSS Structure](../_media/css_structure.png)
+
 Photo Credit © https://www.w3schools.com/css/css_syntax.asp 
 
 In CSS, there are different selectors. H1 from the example is an element selector. 
