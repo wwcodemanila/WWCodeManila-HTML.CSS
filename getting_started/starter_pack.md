@@ -147,8 +147,8 @@ Note: This will be your CSS File. All css files have an extension of *.css
 ```
 <link rel="stylesheet" type="text/css" href="style.css">
 ```
-Read more about HTML <link> tag here.
-Familiarize yourself with CSS syntax.
+Read more about HTML <link> tag [here](https://www.w3schools.com/tags/tag_link.asp).
+Familiarize yourself with [CSS syntax](https://www.w3schools.com/css/css_syntax.asp).
 ```
 element {
     property: value;
