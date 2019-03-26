@@ -164,8 +164,8 @@ Congratulations! Your First Website have colors in it. :)
 ### Understanding Cascading Style Sheet (CSS)
 
 In the previous activity, we asked you to add this line below inside the <head> tag:
-`<link rel="stylesheet" type="text/css" href="style.css">`
-That line of code connects our newly created style.css file to our html file (MyFirstHelloWorld.html). 
+`<link rel="stylesheet" type="text/css" href="style.css">`,
+this line of code connects our newly created style.css file to our html file (MyFirstHelloWorld.html). 
 
 Check this photo below:
 
