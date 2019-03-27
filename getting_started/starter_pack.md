@@ -180,4 +180,18 @@ In CSS, there are different selectors. H1 from the example is an element selecto
 Read more about CSS selectors [here](https://www.w3schools.com/css/css_syntax.asp).
 
 
+### Challenge 2: Experiment your MyFirstHelloWorld.html
 
+1. There are 3 ways to add styles to your html file. Discover and learn the differences between: inline, internal and external CSS styles. 
+   References:
+     * https://www.w3schools.com/html/html_css.asp, 
+     * https://www.javatpoint.com/how-to-add-css 
+
+2. Create 3 versions of your MyFirstHelloWorld.html demonstrating each ways to add your styles (inline, internal and external css). 
+3. Change the font-size of the heading text into 36px and add a line-height with a value of 3em. 
+4. Explore the different CSS properties that you can do in each element.  Add at least three new html elements (aside from <h1>, <p>, <a>) and add styles to each new elements. 
+   Example: 
+```
+<span style=”font-weight:bold;”>Hello</span>
+```
+5. Save your work with following format, for example: Challenge2 - Inline CSS. html
