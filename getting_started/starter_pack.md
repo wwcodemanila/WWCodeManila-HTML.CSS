@@ -195,3 +195,24 @@ Read more about CSS selectors [here](https://www.w3schools.com/css/css_syntax.as
 <span style=”font-weight:bold;”>Hello</span>
 ```
 5. Save your work with following format, for example: Challenge2 - Inline CSS. html
+
+
+## My First Blog Site
+
+Please finish all the previous activities before doing this activity. 
+
+### Final Challenge: My First Blog Site
+
+1. Create a folder in your computer and named it “My First Blog Site” or any folder name you want. 
+2. Inside your folder, open a text editor and create an index.html file. 
+3. Review the basic tags from previous activities, in your index.html file it should contain the following tags: `<html>`, `<head>`, `<title>` and `<body>`.
+4. Inside your folder, create style.css file. 
+5. Go back to your index.html file. Inside the <head> tag, link your external css file. 
+6. Inside the `<body>` tag, add a title of your blog (example: your name) and wrap it inside the `<h1>` tag. 
+7. After your title, add your photo or avatar. 
+8. Add a background color in your blog site. Choose any color that you like.
+9. Make a short paragraph and tell us about yourself. 
+10. Make a list of your hobbies or things that you like.
+11. In the last part of your blog site, add a way to contact you and link it to your email address or you can used this placeholder value = ‘mailto:myemail@gmail.com’.
+12. Play with colors and other attributes to beautify your blog. Apply any elements and their attributes that you like. Express your creativity.
+13. Share your work with us in the study group. Be proud of it :) 
