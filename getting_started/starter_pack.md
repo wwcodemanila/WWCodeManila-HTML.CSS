@@ -210,4 +210,5 @@ Please finish all the previous activities before doing this activity.
 13. Share your work with us in the study group. Be proud of it.  
 
 Example of the personal blog site that you can do:
+
 ![HTML & CSS Layer](../_media/finalblogexample.png)
