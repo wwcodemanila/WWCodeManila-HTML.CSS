@@ -126,7 +126,6 @@ Can you solve this? Try it! Challenge yourself.
 </html>
 ```
 2. This code block has 5 bugs, find them to make your page work.
-
 3. Don’t forget to save your work as Challenge1.html
 
 
