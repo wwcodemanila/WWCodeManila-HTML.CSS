@@ -210,3 +210,6 @@ Please finish all the previous activities before doing this activity.
 11. In the last part of your blog site, add a way to contact you and link it to your email address or you can used this placeholder value = ‘mailto:myemail@gmail.com’.
 12. Play with colors and other attributes to beautify your blog. Apply any elements and their attributes that you like. Express your creativity.
 13. Share your work with us in the study group. Be proud of it.  
+
+Example of the personal blog site that you can do:
+![HTML & CSS Layer](../_media/finalblogexample.png)
