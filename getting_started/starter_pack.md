@@ -43,8 +43,8 @@ Source: https://firstsiteguide.com/what-is-blog/
 3. Save it as MyFirstHelloWorld.html
 4. Open it with any browser that you have. (Google Chrome, Firefox, IE, etc)
 
-Congratulations on your First Hello World!
-You successfully run your first HTML page. :) 
+Congratulations on your First Hello World! :tada: :clap:	
+You successfully run your first HTML page.
 
 
 ### Understanding the Code
@@ -162,7 +162,7 @@ element {
 7. Save your changes. 
 8. Open your MyFirstHelloWorld.html or refresh it from your browser.
 
-Congratulations! Your First Website have colors in it. :)
+Congratulations! Your First Website have colors in it. :clap:	
 
 ### Understanding Cascading Style Sheet (CSS)
 
@@ -215,4 +215,4 @@ Please finish all the previous activities before doing this activity.
 10. Make a list of your hobbies or things that you like.
 11. In the last part of your blog site, add a way to contact you and link it to your email address or you can used this placeholder value = ‘mailto:myemail@gmail.com’.
 12. Play with colors and other attributes to beautify your blog. Apply any elements and their attributes that you like. Express your creativity.
-13. Share your work with us in the study group. Be proud of it :) 
+13. Share your work with us in the study group. Be proud of it.  
