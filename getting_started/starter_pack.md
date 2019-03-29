@@ -1,10 +1,10 @@
 <!--
   UPDATE THIS:
-
-  
 -->
 
-## Guide for attendees who are starting to learn HTML/CSS.
+## Welcome to the Web!
+
+This is guide for attendees who are starting to learn HTML/CSS.
 
 !> For **newbies / beginners** please read, understand and follow this starter pack. 
 It might take 2-3 hrs or more to finish this. Please try your best to follow all the activities, we know you can do it. :)
