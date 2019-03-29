@@ -105,7 +105,7 @@ In the example above:
 
 !> Note:
 Do you have a question :question: Is there something that confuse you or you don’t understand :question: 
-Feel free to post your questions here: https://gitter.im/WWCodeManila/HTML-CSS.  Ask our community, we will help you. 
+Feel free to post your questions here: https://gitter.im/WWCodeManila/HTML-CSS.  Ask our community, we will help you.  
 
 
 ### Challenge 1: Find the bugs!
@@ -115,15 +115,13 @@ Can you solve this? Try it! Challenge yourself.
 1. Copy the code block below on your text editor.
 ```
 <html>
-		<head>
-			</title>My First Hello World<title>
-</head>
+	<head>
+		</title>My First Hello World<title>
+	</head>
 <body>
-
-		<h1> Hello World!/h1>
-
-		<p> My name is _________. I am a/an ____________. I love to _____________ everyday. <p>
-		</p> Today, I am challenging myself to solve this problem. Let’s do this! :) <p>
+	<h1> Hello World!/h1>
+	<p> My name is _________. I am a/an ____________. I love to _____________ everyday. <p>
+	</p> Today, I am challenging myself to solve this problem. Let’s do this! :) <p>
 </body>	
 </html>
 ````
