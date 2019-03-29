@@ -15,7 +15,7 @@
 - Starter Kit
   - [About the Study Group](README.md)
   - [Install Tools](getting_started/install_tools.md)
-  - [Starter Pack](getting_started/starter_pack.md)
+  - [Welcome to the Web](getting_started/starter_pack.md)
 
 - Basic Concepts
   - [Guide in Learning HTML &amp; CSS](getting_started/guide.md)
