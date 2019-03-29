@@ -2,8 +2,6 @@
   UPDATE THIS:
 -->
 
-## Welcome to the Web!
-
 Guide for attendees who are starting to learn HTML and CSS.
 
 !> For **newbies / beginners** please read, understand and follow this starter kit. 
