@@ -186,7 +186,7 @@ Read more about CSS selectors [here](https://www.w3schools.com/css/css_syntax.as
 
 2. Create 3 versions of your MyFirstHelloWorld.html demonstrating each ways to add your styles (inline, internal and external css). 
 3. Change the font-size of the heading text into 36px and add a line-height with a value of 3em. 
-4. Explore the different CSS properties that you can do in each element.  Add at least three new html elements (aside from <h1>, <p>, <a>) and add styles to each new elements. 
+4. Explore the different CSS properties that you can do in each element.  Add at least three new html elements (aside from `<h1>`, `<p>`, `<a>`) and add styles to each new elements. 
    Example: 
 ```
 <span style=”font-weight:bold;”>Hello</span>
