@@ -139,14 +139,12 @@ Let’s learn what is CSS and how it works.
 1. Open your MyFirstHelloWorld.html in your browser.
 2. Observe it’s current look.
 3. In the same folder/directory of your MyFirstHelloWorld.html, Create a new file and name it as style.css.
-Note: This will be your CSS File. All css files have an extension of *.css
+   *Note:* This will be your CSS File. All css files have an extension of *.css
 4. Inside the `<head>` tag under the `<title>` tag, insert this `<link>` tag:
 ```
 <link rel="stylesheet" type="text/css" href="style.css">
 ```
-
    Read more about HTML <link> tag [here](https://www.w3schools.com/tags/tag_link.asp).
-
    Familiarize yourself with [CSS syntax](https://www.w3schools.com/css/css_syntax.asp).
 ```
 element {
