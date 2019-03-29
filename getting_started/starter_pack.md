@@ -94,11 +94,11 @@ In the example above:
       * Attributes: href, target
 
    You can find the list of html elements here:
-      * W3Schools
-      * Mozilla MDN 
+      * [W3Schools](https://www.w3schools.com/tags/default.asp)
+      * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 	  
 3. Try the html elements from your list. Explore on how they works. 
-   If you have questions, you can ask us in our gitter chat or list down your question and ask it during the study group. We will try our best to answer your questions. 
+   If you have questions, you can ask us in our [gitter chat](https://gitter.im/WWCodeManila/HTML-CSS) or list down your question and ask it during the study group. We will try our best to answer your questions. 
 
 4. Share your answers during our study group. Don’t be shy, ok :) 
 
