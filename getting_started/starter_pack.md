@@ -209,6 +209,6 @@ Please finish all the previous activities before doing this activity.
 12. Play with colors and other attributes to beautify your blog. Apply any elements and their attributes that you like. Express your creativity.
 13. Share your work with us in the study group. Be proud of it.  
 
-Example of the personal blog site that you can do:
+*Example of the personal blog site that you can do:*
 
 ![HTML & CSS Layer](../_media/finalblogexample.png)
