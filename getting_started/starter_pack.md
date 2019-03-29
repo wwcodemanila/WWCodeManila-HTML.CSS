@@ -104,8 +104,8 @@ In the example above:
 
 
 !> Note:
-If there’s something that confuse you or you don’t understand, you can ask our community. 
-Feel free to post your questions here: https://gitter.im/WWCodeManila/HTML-CSS 
+Do you have a question :question: Is there something that confuse you or you don’t understand :question: 
+Feel free to post your questions here: https://gitter.im/WWCodeManila/HTML-CSS.  Ask our community, we will help you. 
 
 
 ### Challenge 1: Find the bugs!
