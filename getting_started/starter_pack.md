@@ -65,7 +65,7 @@ And the structure is composed of elements and tags.
 Going back to our code, each words that starts with ‘<’ and ends with ‘>’ are **tags**.
 
 **HTML tags** are element names surrounded by angle brackets:
-<tagname>content goes here...</tagname>
+`<tagname>content goes here...</tagname>`
 
 Example:
 
