@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Muli', sans-serif;
+}
+
+.wrapper {
+    width: 90vw;
+    margin: 50px auto;
+    padding: 30px;
+    border:10px double teal;
+}
+
+.bio-heading {
+    width: 350px;
+    margin: 30px auto;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 30px;
+    box-shadow: 0 0 20px slategray;
+}
+
+/*make the image bigger when hovered*/
+img:hover {
+    transform: scale(1.1);
+    transition: all 200ms ease;
+}
+
+h1 {
+    text-align: center;
+    animation: blink 3s infinite;
+}
+
+/*make the name change color*/
+@keyframes blink {
+    0% {color: hotpink;}
+    50% {color: teal;}
+    100% {color: hotpink;}
+}
+
+hr {
+    position: relative;
+    width: 900px;
+    border: 1px solid teal;
+    animation: movehr 5s infinite;
+}
+
+/*make the hr move from left to right*/
+@keyframes movehr {
+    0% {left: 0;}
+    25% {left: -180px;}
+    50% {left: 0;}
+    75% {left: 180px;}
+    100% {left: 0;}
+}
+
+.bio {
+    padding-top: 20px;
+}
+
+.bio p {
+    font-size: 20px;
+}

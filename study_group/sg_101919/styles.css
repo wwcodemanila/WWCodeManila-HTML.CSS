@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    line-height: 0;
+}
+
+main {
+    margin: 100px 200px;
+}
+
+.wrapper {
+    margin: 200px auto;
+}
+
+.image-container {
+    width: 200px;
+    height: 200px;
+}
+
+.image-container:hover {
+    /*width: 220px;*/
+    /*height: 220px;*/
+
+    /*transform: scale(1.2);*/
+
+    /*transform: rotate(25deg);*/
+
+    /*transform: skew(-25deg);*/
+
+    /*transform: translate(50px, 50px);*/
+
+    /*transform: matrix(1, 0, 0.5, 1, 150, 0);*/
+
+    transition: all 200ms ease-in-out;
+}
+
+img {
+    width: 100%;
+    box-shadow: 6px 6px 10px slategray;
+}
+
+.wheel {
+    width: 100px;
+    height: 100px;
+    border: 10px solid teal;
+    /*animation: spinit 5s infinite;*/
+}
+
+/*@keyframes spinit {*/
+/*    0% {*/
+/*        transform: rotate(0deg);*/
+/*    }*/
+/*    25% {*/
+/*        transform: rotate(180deg) scale(0.4);*/
+/*    }*/
+/*    50% {*/
+/*        transform: rotate(360deg);*/
+/*    }*/
+/*    75% {*/
+/*        transform: rotate(180deg) scale(0.4);*/
+/*    }*/
+/*    100% {*/
+/*        transform: rotate(0deg);*/
+/*    }*/
+/*}*/
