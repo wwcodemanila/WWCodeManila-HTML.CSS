@@ -63,3 +63,44 @@ hr {
 .bio p {
     font-size: 20px;
 }
+
+.bio ul  {
+    list-style: none;
+}
+
+.bio li {
+    margin-top: 5px;
+}
+
+.bullet {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+    border: 3px solid teal;
+    border-top: 3px solid hotpink;
+    animation: spin 1s ease infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    50% {
+        transform: rotate(360deg);
+    }
+
+    100% {
+        transform: rotate(0deg);
+    }
+}
+
+.color {
+    color: black;
+    transition: all 200ms ease;
+}
+
+.color:hover {
+    color: #b76e79;
+}
