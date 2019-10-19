@@ -22,24 +22,33 @@ img {
     box-shadow: 0 0 20px slategray;
 }
 
+/*********************** #1 ***********************/
+
 img:hover {
-    /**** #1 ****/
     /*make the image bigger when hovered*/
 }
 
-/**** #2 ****/
+/*********************** #1 ***********************/
+
+
+/*********************** #2 ***********************/
+
 /*make the name change color*/
 h1 {
     text-align: center;
     animation: blink 3s infinite;
 }
 
-
 @keyframes blink {
     /*put your animation here*/
 }
 
-/**** #3 ****/
+/*********************** #2 ***********************/
+
+
+
+/*********************** #3 ***********************/
+
 /*make the hr move sideways*/
 hr {
     position: relative;
@@ -50,11 +59,43 @@ hr {
 
 /*?????*/
 
-
-.bio {
-    padding-top: 20px;
-}
+/*********************** #3 ***********************/
 
 .bio p {
     font-size: 20px;
 }
+
+.bio ul  {
+    list-style: none;
+}
+
+.bio li {
+    margin-top: 5px;
+}
+
+
+/*********************** #4 ***********************/
+/*make the bullet spin*/
+.bullet {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+    border: 3px solid teal;
+    border-top: 3px solid hotpink;
+    /*?*/
+}
+
+/*?????*/
+
+/*********************** #4 ***********************/
+
+/*********************** #5 ***********************/
+
+.color {
+    color: black;
+    /*transition: ;*/
+}
+
+/*?????*/
+/*********************** #5 ***********************/
