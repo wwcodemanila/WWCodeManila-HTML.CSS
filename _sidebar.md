@@ -15,10 +15,11 @@
 - Getting Started
   - [About the Study Group](README.md)
   - [Tools](getting_started/install_tools.md)
+  - [Creating your first Web Page](getting_started/creating_your_first_webpage.md)
   - [Creating your first blog site](getting_started/starter_pack.md)
 
 - Basic Concepts
-  - [Guide in Learning HTML &amp; CSS](getting_started/guide.md)
+  - [Guide in Learning HTML &amp; CSS](basic_concepts/guide.md)
 
 - Advanced HTML &amp; CSS
 
