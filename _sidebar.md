@@ -12,17 +12,24 @@
   - [About WWCode Manila](wwcodemanila/about.md)
   - [Study Groups](wwcodemanila/study_groups.md)
 
-- Starter Kit
+- Getting Started
   - [About the Study Group](README.md)
-  - [Install Tools](getting_started/install_tools.md)
-  - [Welcome to the Web](getting_started/starter_pack.md)
+  - [Tools](getting_started/install_tools.md)
+  - [Creating your first Web Page](getting_started/creating_your_first_webpage.md)
+  - [Creating your first blog site](getting_started/starter_pack.md)
 
 - Basic Concepts
-  - [Guide in Learning HTML &amp; CSS](getting_started/guide.md)
-  - [Introduction to HTML &amp; CSS - Creating your first Web Page - Page under development](basic_concepts/#)
-  - [More discussion about CSS Box Model, CSS Selectors and CSS Position Property](basic_concepts/#)
+  - [Guide in Learning HTML &amp; CSS](basic_concepts/guide.md)
 
-- Advanced HTML &amp; CSS
+- Activities
+  - [CSS Box Model and Display Property](study_group/2017/css_box_model_and_display_property/readme.md)
+  - [HTML Table and CSS Typography, Colors and Float](study_group/2017/html_table_and_css_typography_colors_and_float/readme.md)
+  - [HTML Form and CSS Position Property](study_group/2017/html_form_and_css_position_property/readme.md)
+  - [CSS Frameworks](study_group/2017/css_frameworks/readme.md)
+  - [CSS Preprocessor](study_group/2017/css_preprocessor/readme.md)
+  - [Responsive Web Design](study_group/2017/responsive_web_design/readme.md)
+  - [Multi Page Website, CSS Typography, Float and Best Practices](study_group/2017/multi_page_website_css_typography_float_and_best_practices/readme.md)
+
 
 - Resources
   - [References](resources/references.md)
