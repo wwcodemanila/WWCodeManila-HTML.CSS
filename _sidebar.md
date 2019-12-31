@@ -21,7 +21,15 @@
 - Basic Concepts
   - [Guide in Learning HTML &amp; CSS](basic_concepts/guide.md)
 
-- Advanced HTML &amp; CSS
+- Activities
+  - [CSS Box Model and Display Property](study_group/2017/css_box_model_and_display_property/readme.md)
+  - [HTML Table and CSS Typography, Colors and Float](study_group/2017/html_table_and_css_typography_colors_and_float/readme.md)
+  - [HTML Form and CSS Position Property](study_group/2017/html_form_and_css_position_property/readme.md)
+  - [CSS Frameworks](study_group/2017/css_frameworks/readme.md)
+  - [CSS Preprocessor](study_group/2017/css_preprocessor/readme.md)
+  - [Responsive Web Design](study_group/2017/responsive_web_design/readme.md)
+  - [Multi Page Website, CSS Typography, Float and Best Practices](study_group/2017/multi_page_website_css_typography_float_and_best_practices/readme.md)
+
 
 - Resources
   - [References](resources/references.md)
