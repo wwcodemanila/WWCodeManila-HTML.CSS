@@ -1,17 +1,14 @@
+## HTML Form and CSS Position Property
 
-### Study Group 5 : HTML Form and CSS Position Property
-_____
-### Resources:
+### Presentation
+https://docs.google.com/presentation/d/1n2DKw9EuS-fAGPke_jF4LgkjEcoWdy2E23alkgWuLJM/edit?usp=sharing
 
-#### Presentation
-https://docs.google.com/presentation/d/1fYJ9X4BpsuRrJKXyYx_9iGAN7xtDTNmx2HlRSkk-1eQ/edit?usp=sharing
-
-#### HTML Form
+### HTML Form
 https://www.w3schools.com/html/html_forms.asp   
 https://www.w3schools.com/html/html_form_elements.asp    
 https://codepen.io/switmac/pen/OgLmzZ
 
-#### CSS Position Property
+### CSS Position Property
 http://learnlayout.com/position-example.html
 
 

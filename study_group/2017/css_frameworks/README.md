@@ -1,11 +1,9 @@
-### Study Group 9 : CSS Frameworks
-_____
+## CSS Frameworks
 
 > A CSS framework is a pre-prepared software framework that is meant to allow for easier, more standards-compliant web design using the Cascading Style Sheets language. Most of these frameworks contain at least a grid. More functional frameworks also come with more features and additional JavaScript based functions, but are mostly design oriented and unobtrusive.
 -- Wikipedia
 
-### Resources:    
-#### Why use CSS Frameworks?
+### Why use CSS Frameworks?
 1.  Saves you time in styling.     
 You don't have to do all the styling anymore. Just add the available classes or styles in your markup and you're good to go. But it is always important to know CSS basics to have an idea of what is happening or if you need to customize.
 
@@ -23,7 +21,7 @@ Some CSS frameworks also provide utilies such as helper classes ex. text-capital
 
 > Note: It is also important  to consider when choosing a framework to use if the project is  `active`  and  `stable`.
 
-#### List of CSS Frameworks
+### List of CSS Frameworks
 as of Sept. 1, 2017
 
 Framework | URL | Stable Version | Release Date | Last Update 
@@ -40,7 +38,7 @@ SemanticUI | https://semantic-ui.com/ |  2.2.13 | Aug 07, 2017 |  Aug. 8, 2017 |
 
     
 
-#### Exercises : 
+### Exercises : 
 1. Explore from the list of CSS Frameworks
 
 2. Choose which you like most

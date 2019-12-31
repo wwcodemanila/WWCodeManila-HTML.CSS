@@ -1,11 +1,9 @@
-### Study Group 4: CSS Box Model and Display Property
-____
+## CSS Box Model and Display Property
 
-### Resources
-#### CSS Box Model
+### CSS Box Model
 https://www.w3schools.com/css/css_boxmodel.asp
 
-#### CSS Layout Properties : Display & Box Model
+### CSS Layout Properties : Display & Box Model
 http://learnlayout.com/no-layout.html   
 http://learnlayout.com/box-model.html  
 https://www.w3schools.com/css/css_display_visibility.asp   
