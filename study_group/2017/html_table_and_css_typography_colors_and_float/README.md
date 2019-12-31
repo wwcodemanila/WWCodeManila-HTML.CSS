@@ -1,19 +1,17 @@
-### Study Group 6 : HTML Table and CSS Typography, Colors and Float
-_____
-### Resources:    
+## HTML Table and CSS Typography, Colors and Float
 
-#### Presentation    
-https://docs.google.com/presentation/d/1fYJ9X4BpsuRrJKXyYx_9iGAN7xtDTNmx2HlRSkk-1eQ/edit?usp=sharing
+### Presentation    
+https://docs.google.com/presentation/d/1n2DKw9EuS-fAGPke_jF4LgkjEcoWdy2E23alkgWuLJM/edit?usp=sharing
 
-#### Table
+### Table
 https://www.w3schools.com/tags/tag_thead.asp    
 https://www.w3schools.com/html/html_tables.asp   
 https://codepen.io/switmac/pen/bRbqde?editors=1000
 
-#### Float   
+### Float   
 http://learnlayout.com/float.html
 
-#### Colors   
+### Colors   
 https://www.w3schools.com/html/html_colors.asp   
 https://www.w3schools.com/colors/colors_palettes.asp   
 http://htmlcolorcodes.com/resources/best-color-palette-generators/    
@@ -21,7 +19,7 @@ http://htmlcolorcodes.com/color-names/
 http://www.colors.commutercreative.com/grid/  
 https://codepen.io/switmac/pen/dRdaLz?editors=1100       
 
-#### Typography    
+### Typography    
 https://www.w3schools.com/css/css_font.asp    
 http://cssreference.io/typography/
 

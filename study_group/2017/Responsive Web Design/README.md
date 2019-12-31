@@ -1,14 +1,13 @@
-### Study Group 8 : Responsive Web Design
-_____
+## Responsive Web Design
+
 Responsive Web Design is the ability of a website to deliver effective contents for different screen sizes and devices.
 
-### Resources:    
-#### Viewport
+### Viewport
 > The viewport is the user's visible area of a web page.
 
 https://www.w3schools.com/css/css_rwd_viewport.asp
 
-#### CSS Media Queries
+### CSS Media Queries
 > Media Queries in CSS files plays a great role in making you site responsive. It controls which styles to use for different screen sizes.
 
 Sample Usage in your CSS file add :   
@@ -24,12 +23,12 @@ https://www.w3schools.com/css/css3_mediaqueries.asp
 http://learnlayout.com/media-queries.html    
 https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports#media-queries   
 
-#### Responsive Concepts
+### Responsive Concepts
 https://www.w3schools.com/css/css_rwd_intro.asp   
 https://www.udacity.com/course/responsive-web-design-fundamentals--ud893   
 https://developers.google.com/web/fundamentals/design-and-ui/responsive/    
 
-#### Tutorials   
+### Tutorials   
 https://www.udacity.com/course/responsive-web-design-fundamentals--ud893   
 
 ### Exercises : Be Responsive

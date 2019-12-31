@@ -1,19 +1,15 @@
-# Study Group 7 : Multi Page Website, CSS Typography, Float and Best Practices
+## Multi Page Website, CSS Typography, Float and Best Practices
 
---------------------------------------------------------------------------------
-
-# Resources:
-
-## Float
+### Float
 
 http://learnlayout.com/float.html
 
-## Typography
+### Typography
 
 https://www.w3schools.com/css/css_font.asp  
 http://cssreference.io/typography/
 
-## Best Practices and Guidelines
+### Best Practices and Guidelines
 
 https://github.com/bendc/frontend-guidelines   
 https://validator.w3.org/nu/#textarea   
@@ -21,7 +17,7 @@ https://www.webpagefx.com/blog/web-design/20-html-best-practices-you-should-foll
 https://www.w3schools.com/html/html5_syntax.asp   
 http://csslint.net/
 
-# Exercises : Practicing order and cleanliness
+### Exercises : Practicing order and cleanliness
 
 1. Add a sidebar in the layout, it may float left or right and add a login form inside the sidebar.
 
